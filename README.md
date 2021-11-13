@@ -1,2 +1,2 @@
 # PykaDex_Clembot
-PykaDex Discord Bot
+A [PykaDex](https://github.com/PykaDex) repository for Discord Bot
